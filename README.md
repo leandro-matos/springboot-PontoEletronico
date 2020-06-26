@@ -145,9 +145,11 @@ Registrar a batida de ponto de um funcionário
 	"tipo": "entrada"
 }
 ```
+<br/>
 
 ***Mais detalhes dos testes podem ser consultados no Swagger: http://localhost:8080/swagger-ui.html***
 
+<br/>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
