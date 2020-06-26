@@ -146,7 +146,7 @@ Registrar a batida de ponto de um funcionário
 }
 ```
 
-*** Mais detalhes dos testes podem ser consultados no Swagger: http://localhost:8080/swagger-ui.html
+***Mais detalhes dos testes podem ser consultados no Swagger: http://localhost:8080/swagger-ui.html***
 
 
 ## License
